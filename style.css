@@ -16,3 +16,8 @@ i {
 #data {
   opacity: 0;
 }
+@media (max-width: 500px) {
+  input {
+    flex-direction: column;
+  }
+}
