@@ -1,0 +1,18 @@
+:root {
+  --color-primary: #1a4250;
+  --color-secondary: #f15143;
+}
+
+body {
+  background-color: var(--color-primary);
+}
+
+h1 {
+  color: #fff;
+}
+i {
+  color: var(--color-secondary);
+}
+#data {
+  opacity: 0;
+}
